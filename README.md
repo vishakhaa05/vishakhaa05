@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishakha</h1>
 <h3 align="center">A Passionate Computer Science Engineer & Full-Stack Web Developer</h3>
 
-<img align="right" alt="coding girl" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/girl_coding.gif">
+<img align="right" alt="coding girl" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ---
 
@@ -23,9 +23,9 @@
 #### **Databases**
 💠 MongoDB | MySQL  
 #### **Other Tools**
-💠 Git | GitHub | REST APIs | JWT | OAuth2 | WebRTC | Socket.IO  
+💠 Git | GitHub | REST APIs 
 #### **Cloud & Hosting**
-💠 GitHub Pages | Cloud Deployment (Basic AWS/Azure Knowledge)
+💠 GitHub Pages 
 
 ---
 
