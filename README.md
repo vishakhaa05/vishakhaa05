@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishakha</h1>
 <h3 align="center">A Passionate Computer Science Engineer & Full-Stack Web Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding girl" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/girl_coding.gif">
 
 ---
 
@@ -56,7 +56,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/vishakha-4a5a462a3" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" /></a>
 <a href="https://github.com/vishakhaa05" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/vish_ag_05" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" alt="CodeChef" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/vish_ag_05" target="_blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-codechef-a-competitive-programming-community-logo-shadow-tal-revivo.png" alt="CodeChef" height="40" width="40" /></a>
 <a href="https://leetcode.com/u/Vishakha0508/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" height="40" width="40" /></a>
 </p>
 
