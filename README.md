@@ -77,7 +77,7 @@
 
 ---
 
-### ✨ Quote
+
 > _“Turning ideas into code, and code into meaningful impact.”_  
 > — Vishakha 🌸
 
