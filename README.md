@@ -11,7 +11,7 @@
 
 💻 I’m passionate about building **real-time, scalable web applications** using **MERN Stack, TypeScript, and Node.js**.  
 ⚡ I focus on writing **clean, efficient, and secure code**, and I love exploring new technologies like **Redis, WebRTC, and Cloud tools**.  
-🚀 My goal is to grow as a **Full-Stack / DevOps Engineer** and contribute to impactful open-source projects.  
+🚀 My goal is to grow as a **Full-Stack developer** and contribute to impactful open-source projects.  
 
 ---
 
