@@ -1,86 +1,250 @@
-<h1 align="center">Hi 👋, I'm Vishakha</h1>
-<h3 align="center">A Passionate Computer Science Engineer & Full-Stack Web Developer</h3>
+# 👋 Hi, I'm Vishakha Agrawal
 
-<img align="right" alt="coding girl" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+### Full-Stack Web Developer • MERN • TypeScript
 
----
-
-### 💫 About Me:
-🎓 I'm pursuing **B.Tech in Computer Science Engineering (Cyber Security Specialization)** from  
-**B.S.A College of Engineering and Technology (2022–2026)**  
-
-💻 I’m passionate about building **real-time, scalable web applications** using **MERN Stack, TypeScript, and Node.js**.  
-⚡ I focus on writing **clean, efficient, and secure code**, and I love exploring new technologies like **Redis, WebRTC, and Cloud tools**.  
-🚀 My goal is to grow as a **Full-Stack developer** and contribute to impactful open-source projects.  
-
----
-
-### 🛠️ Tech Stack:
-#### **Frontend**
-💠 HTML5 | CSS3 | JavaScript | React.js  
-#### **Backend**
-💠 Node.js | Express.js | TypeScript | Redis  
-#### **Databases**
-💠 MongoDB | MySQL  
-#### **Other Tools**
-💠 Git | GitHub | REST APIs 
-#### **Cloud & Hosting**
-💠 GitHub Pages 
-
----
-
-### 🌟 Projects
-🚀 **Real-Time Chat Application**  
-> A scalable chat platform using **TypeScript, Socket.IO, Redis**, and **Node.js** supporting multiple chat rooms, message persistence, and horizontal scaling.
-
-💻 **Video Calling Interview Platform**  
-> Developed using **Next.js, WebRTC, and Socket.IO**, enabling one-on-one and panel-style interviews with live chat, screen sharing, and collaborative code editor.
-
-🔐 **Advanced Authentication System**  
-> Secure login system using **JWT, OAuth2 (Google/GitHub), Redis caching, and MFA (OTP/Email)** for robust access control.
-
----
-
-### 🏆 Achievements
-- 🎯 Solved **500+ problems on CodeChef** and **50+ on LeetCode**  
-- 🥇 Achieved milestones in **Google Cloud Arcade Facilitator Program**  
-- 🏢 Industrial Visit to **Apps Squard** – learned agile workflows & mobile app deployment strategies  
-- 🎓 Certified in:
-  - Full Stack Web Development Bootcamp (Udemy)  
-  - Generative AI Studio (Simplilearn)  
-  - MongoDB (GeeksForGeeks)
-
----
-
-### 📬 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/vishakha-4a5a462a3" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" /></a>
-<a href="https://github.com/vishakhaa05" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/vish_ag_05" target="_blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-codechef-a-competitive-programming-community-logo-shadow-tal-revivo.png" alt="CodeChef" height="40" width="40" /></a>
-<a href="https://leetcode.com/u/Vishakha0508/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" height="40" width="40" /></a>
-</p>
-
----
-
-### 📊 GitHub Stats (Custom Purple–Blue Theme)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishakhaa05&show_icons=true&theme=radical&title_color=9D4EDD&icon_color=8ECAE6&text_color=FFFFFF&bg_color=0D1117" alt="Vishakha's GitHub stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;MERN+Stack+%7C+TypeScript+%7C+Node.js;Turning+ideas+into+working+products+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishakhaa05&theme=tokyonight&background=0D1117" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=vishakhaa05&label=Profile%20Views&color=8B5CF6&style=flat" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/vishakhaa05?label=Followers&style=flat&color=8B5CF6" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/vishakhaa05?label=Stars&style=flat&color=8B5CF6" />
 </p>
+
+---
+
+## ✦ 01 — A LITTLE ABOUT ME
+
+🎓 **B.Tech — Computer Science Engineering**
+**Cyber Security Specialization** • B.S.A College of Engineering & Technology
+**CGPA: 8.17**
+
+💻 I build **responsive, user-friendly full-stack web applications** using the MERN ecosystem.
+
+⚡ Interested in **REST APIs, authentication, real-time systems, Redis, and modern web development**.
+
+🧩 I enjoy turning ideas into **clean interfaces + functional backend systems**.
+
+🚀 Currently focused on becoming a stronger **Full-Stack Developer** through projects, problem solving, and continuous learning.
+
+---
+
+## ✦ 02 — MY DEVELOPMENT WORLD
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 Frontend
+
+* HTML5
+* CSS3
+* JavaScript ES6+
+* React.js
+* Responsive Design
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Backend
+
+* Node.js
+* Express.js
+* TypeScript
+* REST APIs
+* Socket.IO
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🗄️ Data
+
+* MongoDB
+* MySQL
+* Redis
+* CRUD Operations
+* Redis Pub/Sub
+
+</td>
+
+<td>
+
+### 🛠️ Tools
+
+* Git
+* GitHub
+* Postman
+* Vercel
+* JWT
+* OTP Authentication
+
+</td>
+</tr>
+</table>
+
+---
+
+# ✦ 03 — FEATURED PROJECTS
+
+## 🛒 E-Commerce Website
+
+**React.js • Node.js • Express.js • MongoDB • JWT**
+
+A responsive e-commerce application with product browsing, authentication, product management and shopping-cart functionality.
+
+**Highlights**
+
+* 🔐 JWT-based authentication
+* 🛍️ Product listing & management
+* 🛒 Shopping cart flow
+* 🔗 REST API integration
+* 📱 Responsive interface
+
+**[→ View Repository](https://github.com/vishakhaa05)**
+
+---
+
+## 🧮 TaxGenie
+
+**React.js • Dynamic Forms • Tax Calculation**
+
+A responsive tax-calculator web application designed to provide **real-time calculation and result rendering** as users enter their information.
+
+**Highlights**
+
+* ⚡ Dynamic input forms
+* 🔄 Real-time result updates
+* 🧩 Reusable React components
+* 📱 Responsive UI
+
+---
+
+## 🔐 Advanced Authentication System
+
+**Node.js • TypeScript • JWT • Redis • Mailtrap**
+
+A secure authentication system designed around modern login and verification flows.
+
+**Highlights**
+
+* 🔑 JWT authentication
+* 🔒 bcrypt password hashing
+* 📧 Email OTP verification
+* ⚡ Redis Pub/Sub
+* 🛡️ Multi-step signup verification
+
+---
+
+# ✦ 04 — GITHUB ACTIVITY
+
+### 🟣 My Contribution Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishakhaa05&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishakhaa05&bg_color=0d1117&color=8b5cf6&line=a78bfa&point=ffffff&area=true&hide_border=true" width="95%"/>
+</p>
+
+### 🔥 Current Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vishakhaa05&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=FFFFFF" width="70%"/>
+</p>
+
+### 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishakhaa05&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=FFFFFF&rank_icon=github" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishakhaa05&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" width="42%"/>
 </p>
 
 ---
 
+# ✦ 05 — PROBLEM SOLVING
 
-> _“Turning ideas into code, and code into meaningful impact.”_  
-> — Vishakha 🌸
+### 🧠 DSA Journey
+
+<p align="center">
+
+<a href="https://www.codechef.com/users/vish_ag_05">
+<img src="https://img.shields.io/badge/CodeChef-vish__ag__05-5B21B6?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Vishakha0508/">
+<img src="https://img.shields.io/badge/LeetCode-Vishakha0508-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+> Consistently practicing **Data Structures & Algorithms** through competitive programming and problem solving.
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+# ✦ 06 — CERTIFICATIONS & MILESTONES
+
+🎓 **Full-Stack Development Bootcamp** — Udemy
+🤖 **Introduction to Generative AI Studio** — Simplilearn
+🍃 **MongoDB Certification** — GeeksforGeeks
+
+🏆 **Google Cloud Arcade Facilitator Program** — Ultimate Milestone
+
+🏢 **Industrial Visit — Apps Squad**
+Exposure to software workflows, deployment strategies and agile teamwork.
+
+---
+
+# ✦ 07 — CURRENTLY LEARNING
+
+```text
+React.js              ███████████████████░
+Node.js               ██████████████████░░
+TypeScript            ████████████████░░░░
+MongoDB               █████████████████░░░
+Redis                 █████████████░░░░░░░
+DSA                   ████████████░░░░░░░░
+System Design         ████████░░░░░░░░░░░░
+```
+
+📌 Building projects
+📌 Improving DSA
+📌 Learning better backend architecture
+📌 Exploring real-time web technologies
+
+---
+
+# ✦ 08 — LET'S CONNECT
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/vishakha-4a5a462a3">
+<img src="https://img.shields.io/badge/LinkedIn-Vishakha%20Agrawal-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vishakhaa05">
+<img src="https://img.shields.io/badge/GitHub-vishakhaa05-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/vish_ag_05">
+<img src="https://img.shields.io/badge/CodeChef-vish__ag__05-5B21B6?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Vishakha0508/">
+<img src="https://img.shields.io/badge/LeetCode-Vishakha0508-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 🌸 *"Turning ideas into code, and code into meaningful impact."*
+
+**Thanks for visiting my profile! ⭐**
+
+</p>
