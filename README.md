@@ -104,7 +104,7 @@ I practice Data Structures and Algorithms on [LeetCode](https://leetcode.com/u/V
 
 ---
 
-## Connect With Me
+## Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishakhaagrawal-4a5a462a3"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
